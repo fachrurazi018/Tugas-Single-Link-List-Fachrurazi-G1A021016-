@@ -173,7 +173,7 @@ void List::search()
         return;
     }
     
-    cout<<"Masukkan nilai yang ingin Anda cari:";
+    cout<<"Masukkan elemen yang ingin Anda cari:";
     cin>>value;
     Node *temp;
     temp=first;
